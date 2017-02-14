@@ -107,29 +107,29 @@ else {
             <div class="message">
               <p>Happy Valentine's Day guys. Below is an actual heart, <span><i class="fa fa-heart" aria-hidden="true"></i></span> is a mirrored butt.
                 <br/>Don't use <span><i class="fa fa-heart" aria-hidden="true"></i></span>, save lives.</p>
-              <pre>
-                |  \ \ | |/ /
-                |  |\ `' ' /
-                |  ;'aorta \      / , pulmonary
-                | ;    _,   |    / / ,  arteries
-                superior | |   (  `-.;_,-' '-' , vena cava
-                | `,   `-._       _,-'_
-                |,-`.    `.)    ,<_,-'_, pulmonary
-                ,'    `.   /   ,'  `;-' _,  veins
-                ;        `./   /`,    \-'
-                | right   /   |  ;\   |\
-                | atrium ;_,._|_,  `, ' \
-                |        \    \ `       `,
-                `      __ `    \   left  ;,
-                \   ,'  `      \,  ventricle
-                \_(            ;,      ;;
-                |  \           `;,     ;;
-                inferior |  |`.          `;;,   ;' vena cava
-                |  |  `-.        ;;;;,;'
-                |  |    |`-.._  ,;;;;;'
-                |  |    |   | ``';;;'  FL
-                        aorta
-              </pre>
+<pre>
+|  \ \ | |/ /
+|  |\ `' ' /
+|  ;'aorta \      / , pulmonary
+| ;    _,   |    / / ,  arteries
+superior | |   (  `-.;_,-' '-' , vena cava
+| `,   `-._       _,-'_
+|,-`.    `.)    ,<_,-'_, pulmonary
+,'    `.   /   ,'  `;-' _,  veins
+;        `./   /`,    \-'
+| right   /   |  ;\   |\
+| atrium ;_,._|_,  `, ' \
+|        \    \ `       `,
+`      __ `    \   left  ;,
+\   ,'  `      \,  ventricle
+\_(            ;,      ;;
+|  \           `;,     ;;
+inferior |  |`.          `;;,   ;' vena cava
+|  |  `-.        ;;;;,;'
+|  |    |`-.._  ,;;;;;'
+|  |    |   | ``';;;'  FL
+        aorta
+</pre>
             </div>
           </div>
         </div>
